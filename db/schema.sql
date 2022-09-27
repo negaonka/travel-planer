@@ -1,0 +1,2 @@
+DROP DATABASE travel_db;
+CREATE DATABASE travel_db;
